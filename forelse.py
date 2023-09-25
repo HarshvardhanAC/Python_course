@@ -1,4 +1,4 @@
-for i in []:
+# for i in []:
 #     print(i)
     
 # else:
@@ -12,3 +12,15 @@ for i in []:
     
 # else:
 #     print("The number is npt available")
+    
+    
+i=0
+while i<70:
+ print(i)
+ i = i + 1
+    
+ if i == 60 :
+    break
+    
+else:
+    print("You have created the blunder")

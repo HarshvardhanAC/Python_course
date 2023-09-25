@@ -10,6 +10,6 @@ print(txt.format(price=49.099999))
 
 name1="honey"
 tutor="Code with harry"
-letter1=f"my name is {name1}and I' learning python from {tutor}"
+letter1=f"my name is {name1} and I' learning python from {tutor}"
 
 print(letter1)

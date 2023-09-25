@@ -24,3 +24,6 @@ m= [100,200,400,500,600]
 l.extend(m)
 l.sort()
 print(l)
+
+k = l+m
+print(k)

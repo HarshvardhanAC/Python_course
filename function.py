@@ -20,3 +20,7 @@ def function(a=8,b=6):
     print("The average of a two number is :-",int((a+b)/2))
     
 function()
+# required parameters can  
+
+
+

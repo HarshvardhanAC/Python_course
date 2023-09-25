@@ -1,5 +1,5 @@
 def additionofnumber(a,b) :
-    """" This Function is made to declare the values of a and b :-"""
+    """" This Function is made to declare the addtion of a and b :-"""
     c = a+b
     print(c)
 
