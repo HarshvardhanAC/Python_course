@@ -1,5 +1,17 @@
-def fibonacci(n):
-    result= fibonacci(n-1) + fibonacci(n-2)
-    print(result)
+def fib(n):
+    a=0
+    b=1
     
-fibonacci(5)
+    print(a)
+    print(b)
+    
+    for i in range(n):
+        
+        c= a+b
+        
+        a=b
+        b=c
+        
+        print(c)
+fib(5)
+    
